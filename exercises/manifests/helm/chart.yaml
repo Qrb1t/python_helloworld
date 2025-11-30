@@ -1,9 +1,8 @@
 apiVersion: v1
-name: python-helloworld 
-description: Install a Python HelloWorld deployment
+name: nginx-deployment 
+description: Install a nginx deployment
 keywords:
-- python
-- helloworld 
+- nginx
 version: 1.0.0
 maintainers:
 - name: kgamanji 
