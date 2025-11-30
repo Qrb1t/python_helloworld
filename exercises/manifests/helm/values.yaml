@@ -1,6 +1,7 @@
 # values.yaml
 
-namespace: demo
+namespace: 
+  name: demo
 
 replicaCount: 3
 
